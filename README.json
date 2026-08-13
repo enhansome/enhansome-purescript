@@ -1,0 +1,613 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spago",
+          "description": "PureScript package manager and build tool powered by Dhall and package-sets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2026-08-04T21:48:01Z",
+            "owner": "purescript",
+            "repo": "spago",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-06-18T00:44:22Z",
+            "owner": "purescript-contrib",
+            "repo": "pulp",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psc-package",
+          "description": "A package manager for PureScript based on package sets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-07-24T14:21:16Z",
+            "owner": "purescript",
+            "repo": "psc-package",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purs-loader",
+          "description": "for webpack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-18T22:00:43Z",
+            "owner": "ethul",
+            "repo": "purs-loader",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-psa",
+          "description": "A pretty, flexible error/warning reporting frontend for",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2024-07-13T21:51:12Z",
+            "owner": "natefaubion",
+            "repo": "purescript-psa",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-purescript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-04-30T21:56:27Z",
+            "owner": "purescript-deprecated",
+            "repo": "gulp-purescript",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psvm-js",
+          "description": "PureScript Version Manager",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T05:39:59Z",
+            "owner": "ThomasCrevoisier",
+            "repo": "psvm-js",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunt-purescript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-04-30T22:05:47Z",
+            "owner": "purescript-deprecated",
+            "repo": "grunt-purescript",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Build Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-prelude",
+          "description": "The standard Prelude.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2025-05-17T18:31:22Z",
+            "owner": "purescript",
+            "repo": "purescript-prelude",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-batteries",
+          "description": "A PureScript prelude with more features.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PureScript",
+            "last_commit": "2017-08-05T12:43:13Z",
+            "owner": "tfausak",
+            "repo": "purescript-batteries",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Preludes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-routing",
+          "description": "A clean, type-safe routing library for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-05-24T13:48:45Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-routing",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-routing-duplex",
+          "description": "Simple bidirectional parser/printers for your routing data types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2023-06-15T14:09:42Z",
+            "owner": "natefaubion",
+            "repo": "purescript-routing-duplex",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-trout",
+          "description": "Type-level routing for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2020-06-22T13:42:02Z",
+            "owner": "purescript-hyper",
+            "repo": "purescript-trout",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-cofree-react-router",
+          "description": "React-Router implemented in PureScript as Cofree Comonad for the Array functor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2018-03-11T21:27:20Z",
+            "owner": "coot",
+            "repo": "purescript-cofree-react-router",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-boomboom",
+          "description": "Never hard code your urls again. Boomboom them all!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2019-06-19T15:45:13Z",
+            "owner": "paluh",
+            "repo": "purescript-boomboom",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "URL Routers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-halogen-formless",
+          "description": "A renderless component for building painless forms in Halogen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2026-01-28T13:57:15Z",
+            "owner": "thomashoneyman",
+            "repo": "purescript-halogen-formless",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-halogen-select",
+          "description": "Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2026-07-30T22:01:02Z",
+            "owner": "davezuch",
+            "repo": "purescript-halogen-select",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-halogen-day-picker",
+          "description": "A day picker for Halogen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2018-09-06T01:33:03Z",
+            "owner": "rnons",
+            "repo": "purescript-halogen-day-picker",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-halogen-echarts",
+          "description": "A Halogen integration for the popular ECharts charting library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PureScript",
+            "last_commit": "2018-01-24T14:30:50Z",
+            "owner": "slamdata",
+            "repo": "purescript-halogen-echarts",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-halogen-menu",
+          "description": "Interactive menus in Halogen",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PureScript",
+            "last_commit": "2017-04-24T11:19:37Z",
+            "owner": "slamdata",
+            "repo": "purescript-halogen-menu",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-aff",
+          "description": "An asynchronous effect monad for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2024-09-08T19:37:56Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-aff",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-affjax",
+          "description": "An asynchronous AJAX library built using Aff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2024-09-08T19:37:56Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-aff",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-signal",
+          "description": "An asynchronous signal library for PureScript, similar to Elm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-04-30T07:51:12Z",
+            "owner": "bodil",
+            "repo": "purescript-signal",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-zeta",
+          "description": "An alternative signal implementation in PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2020-04-23T09:58:14Z",
+            "owner": "athanclark",
+            "repo": "purescript-zeta",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-queue",
+          "description": "An asynchronous queue library for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2020-04-19T22:16:51Z",
+            "owner": "athanclark",
+            "repo": "purescript-queue",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Asynchronicity and Parallelism"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-effect",
+          "description": "The Effect monad, for handling native side effects in PureScript v0.12.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-09-17T14:37:51Z",
+            "owner": "purescript",
+            "repo": "purescript-effect",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-eff",
+          "description": "The Eff monad, for handling native side effects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-10-03T19:00:09Z",
+            "owner": "purescript-deprecated",
+            "repo": "purescript-eff",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Effect Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-simple-json",
+          "description": "Json encoding and decoding through Generics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2023-06-02T13:18:40Z",
+            "owner": "justinwoo",
+            "repo": "purescript-simple-json",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-argonaut",
+          "description": "Json encoding and decoding typeclasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-04-27T23:20:22Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-argonaut",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Json Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-protobuf",
+          "description": "Google Protocol Buffers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2025-03-12T03:06:57Z",
+            "owner": "rowtype-yoga",
+            "repo": "purescript-protobuf",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-arraybuffer",
+          "description": "Bindings to the ArrayBuffer JavaScript type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2023-02-13T06:51:10Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-arraybuffer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-arraybuffer-builder",
+          "description": "Builder for serializing ArrayBuffer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2023-05-17T15:22:05Z",
+            "owner": "rowtype-yoga",
+            "repo": "purescript-arraybuffer-builder",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-parsing-dataview",
+          "description": "Parser for deserializing ArrayBuffer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-12-05T00:04:37Z",
+            "owner": "rowtype-yoga",
+            "repo": "purescript-parsing-dataview",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-arraybuffer-class",
+          "description": "Typeclasses for ArrayBuffer encoding and decoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2021-05-09T06:43:30Z",
+            "owner": "athanclark",
+            "repo": "purescript-arraybuffer-class",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Binary Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-quickcheck",
+          "description": "An implementation of QuickCheck in PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-04-27T22:20:54Z",
+            "owner": "purescript",
+            "repo": "purescript-quickcheck",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-test-unit",
+          "description": "An asynchronous unit test runner for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-09-03T10:21:47Z",
+            "owner": "bodil",
+            "repo": "purescript-test-unit",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-benchotron",
+          "description": "Straightforward benchmarking for PureScript/JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PureScript",
+            "last_commit": "2023-09-23T22:37:23Z",
+            "owner": "hdgarrood",
+            "repo": "purescript-benchotron",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-quickcheck-laws",
+          "description": "Law tests for core classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2022-10-17T15:34:55Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-quickcheck-laws",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "See Editor and tool support",
+      "items": [],
+      "title": "Editor and IDE Plugins"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Pascal Hartig has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:11.053Z",
+    "original_repository": "passy/awesome-purescript",
+    "original_repository_sha": "cc4d1d75861b5b0e6d2ec7dd7cce7701218bd5a2",
+    "enhanced_repository": "enhansome/enhansome-purescript",
+    "enhanced_repository_description": null,
+    "title": "awesome-purescript with stars"
+  }
+}
