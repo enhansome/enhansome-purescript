@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 832 | 🐛 40 | 🌐 PureScript | 📅 2026-08-04 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 832 | 🐛 41 | 🌐 PureScript | 📅 2026-08-04 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
