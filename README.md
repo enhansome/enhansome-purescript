@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 832 | 🐛 41 | 🌐 PureScript | 📅 2026-08-04 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 832 | 🐛 40 | 🌐 PureScript | 📅 2026-08-17 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -15,7 +15,7 @@
 
 ## Preludes
 
-* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 28 | 🌐 PureScript | 📅 2025-05-17 - The standard Prelude.
+* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 29 | 🌐 PureScript | 📅 2025-05-17 - The standard Prelude.
 * [purescript-batteries](https://github.com/tfausak/purescript-batteries) ⚠️ Archived - A PureScript prelude with more features.
 
 ## UI Libraries
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,900 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,898 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
