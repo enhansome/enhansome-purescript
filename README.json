@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149850277,
             "language": "PureScript",
             "last_commit": "2026-08-17T08:27:12Z",
             "owner": "purescript",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20595322,
             "language": "PureScript",
             "last_commit": "2022-06-18T00:44:22Z",
             "owner": "purescript-contrib",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81163698,
             "language": "Haskell",
             "last_commit": "2022-07-24T14:21:16Z",
             "owner": "purescript",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24296709,
             "language": "JavaScript",
             "last_commit": "2024-11-18T22:00:43Z",
             "owner": "ethul",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49298924,
             "language": "PureScript",
             "last_commit": "2024-07-13T21:51:12Z",
             "owner": "natefaubion",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18256837,
             "language": null,
             "last_commit": "2020-04-30T21:56:27Z",
             "owner": "purescript-deprecated",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41328750,
             "language": "JavaScript",
             "last_commit": "2022-12-03T05:39:59Z",
             "owner": "ThomasCrevoisier",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16453237,
             "language": null,
             "last_commit": "2020-04-30T22:05:47Z",
             "owner": "purescript-deprecated",
@@ -119,7 +127,7 @@
       "title": "Build Tooling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33838632,
             "language": "PureScript",
             "last_commit": "2025-05-17T18:31:22Z",
             "owner": "purescript",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44719229,
             "language": "PureScript",
             "last_commit": "2017-08-05T12:43:13Z",
             "owner": "tfausak",
@@ -153,7 +163,313 @@
       "title": "Preludes"
     },
     {
-      "description": "",
+      "description": "CSS:\nReact-based:\nVirtual-DOM based:\nSignals/Behaviors/FRP:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "purescript-pux",
+          "description": "Build type-safe web apps with PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50311407,
+            "language": "PureScript",
+            "last_commit": "2023-01-12T08:23:00Z",
+            "owner": "alexmingoia",
+            "repo": "purescript-pux",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-react",
+          "description": "React bindings for PureScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19463231,
+            "language": "PureScript",
+            "last_commit": "2023-01-05T21:25:10Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-react",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-thermite",
+          "description": "A simple wrapper for ReactJS inspired by .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28251951,
+            "language": "PureScript",
+            "last_commit": "2022-12-02T23:17:48Z",
+            "owner": "paf31",
+            "repo": "purescript-thermite",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-react-basic",
+          "description": "An opinionated set of bindings to the React library, optimizing for the most basic use cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116311317,
+            "language": "PureScript",
+            "last_commit": "2025-04-27T10:13:05Z",
+            "owner": "purescript-react",
+            "repo": "purescript-react-basic",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-concur",
+          "description": "Concur UI framework. React backend, but can use others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110793494,
+            "language": "PureScript",
+            "last_commit": "2024-12-09T13:13:48Z",
+            "owner": "purescript-concur",
+            "repo": "purescript-concur-react",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-presto",
+          "description": "Write Apps like Mathematical Equations!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109179603,
+            "language": "PureScript",
+            "last_commit": "2024-08-07T14:00:40Z",
+            "owner": "juspay",
+            "repo": "purescript-presto",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-react-basic-hooks",
+          "description": "An alternative way to define React components using React's \"hooks\" APIs. Compatible with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165808163,
+            "language": "PureScript",
+            "last_commit": "2026-04-09T14:42:21Z",
+            "owner": "purescript-react",
+            "repo": "purescript-react-basic-hooks",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-spork",
+          "description": "Elm-like for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83176882,
+            "language": "PureScript",
+            "last_commit": "2021-08-12T15:37:00Z",
+            "owner": "natefaubion",
+            "repo": "purescript-spork",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-optic-ui",
+          "description": "Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41410172,
+            "language": "PureScript",
+            "last_commit": "2016-10-10T22:48:14Z",
+            "owner": "zrho",
+            "repo": "purescript-optic-ui",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-react-explor",
+          "description": "Experiments with comonads for modelling React UIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 65107322,
+            "language": "PureScript",
+            "last_commit": "2018-06-16T00:23:41Z",
+            "owner": "paf31",
+            "repo": "purescript-react-explore",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-halogen",
+          "description": "A declarative, type-safe UI library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31337302,
+            "language": "PureScript",
+            "last_commit": "2024-09-17T22:43:35Z",
+            "owner": "purescript-halogen",
+            "repo": "purescript-halogen",
+            "stars": 1596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-flame",
+          "description": "Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180029846,
+            "language": "PureScript",
+            "last_commit": "2026-08-12T02:18:57Z",
+            "owner": "easafe",
+            "repo": "purescript-flame",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-hedwig",
+          "description": "Hedwig is a fast, type safe, declarative PureScript library for building web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145825609,
+            "language": "PureScript",
+            "last_commit": "2020-06-25T06:50:13Z",
+            "owner": "utkarshkukreti",
+            "repo": "purescript-hedwig",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-flare",
+          "description": "Applicative-style reactive user interfaces built on top of purescript-signal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46581210,
+            "language": "PureScript",
+            "last_commit": "2020-07-22T20:45:03Z",
+            "owner": "sharkdp",
+            "repo": "purescript-flare",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-sdom",
+          "description": "An experiment in replacing the virtual DOM and avoiding diffing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 116535329,
+            "language": "PureScript",
+            "last_commit": "2018-06-24T03:34:25Z",
+            "owner": "paf31",
+            "repo": "purescript-sdom",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-specular",
+          "description": "A Reflex-Dom inspired UI library for PureScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112614520,
+            "language": "PureScript",
+            "last_commit": "2025-08-21T15:25:57Z",
+            "owner": "restaumatic",
+            "repo": "purescript-specular",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-purview",
+          "description": "A UI library based on the incremental lambda calculus.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 104687472,
+            "language": "PureScript",
+            "last_commit": "2018-07-11T02:37:41Z",
+            "owner": "paf31",
+            "repo": "purescript-purview",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-turbine",
+          "description": "Purely functional frontend framework powered by FRP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126343677,
+            "language": "PureScript",
+            "last_commit": "2019-12-15T07:37:28Z",
+            "owner": "funkia",
+            "repo": "purescript-turbine",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-panda",
+          "description": "What would TEA look like if we had no VDOM?",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 118048971,
+            "language": "PureScript",
+            "last_commit": "2019-01-21T11:56:03Z",
+            "owner": "i-am-tom",
+            "repo": "purescript-panda",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-outwatch",
+          "description": "A functional and reactive UI framework based on Rx and VirtualDom.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83992680,
+            "language": "PureScript",
+            "last_commit": "2019-09-16T19:25:02Z",
+            "owner": "outwatch",
+            "repo": "purescript-outwatch",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "UI Libraries"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31926788,
             "language": "PureScript",
             "last_commit": "2022-05-24T13:48:45Z",
             "owner": "purescript-contrib",
@@ -176,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146226407,
             "language": "PureScript",
             "last_commit": "2023-06-15T14:09:42Z",
             "owner": "natefaubion",
@@ -190,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83970617,
             "language": "PureScript",
             "last_commit": "2020-06-22T13:42:02Z",
             "owner": "purescript-hyper",
@@ -204,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84249116,
             "language": "PureScript",
             "last_commit": "2018-03-11T21:27:20Z",
             "owner": "coot",
@@ -218,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126237308,
             "language": "PureScript",
             "last_commit": "2019-06-19T15:45:13Z",
             "owner": "paluh",
@@ -229,7 +550,7 @@
       "title": "URL Routers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -238,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139774364,
             "language": "PureScript",
             "last_commit": "2026-01-28T13:57:15Z",
             "owner": "thomashoneyman",
@@ -252,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114054816,
             "language": "PureScript",
             "last_commit": "2026-07-30T22:01:02Z",
             "owner": "davezuch",
@@ -266,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115013192,
             "language": "PureScript",
             "last_commit": "2018-09-06T01:33:03Z",
             "owner": "rnons",
@@ -280,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34584116,
             "language": "PureScript",
             "last_commit": "2018-01-24T14:30:50Z",
             "owner": "slamdata",
@@ -294,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45215635,
             "language": "PureScript",
             "last_commit": "2017-04-24T11:19:37Z",
             "owner": "slamdata",
@@ -305,7 +631,7 @@
       "title": "Components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -314,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31439226,
             "language": "PureScript",
             "last_commit": "2024-09-08T19:37:56Z",
             "owner": "purescript-contrib",
@@ -328,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31439226,
             "language": "PureScript",
             "last_commit": "2024-09-08T19:37:56Z",
             "owner": "purescript-contrib",
@@ -342,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24244424,
             "language": "PureScript",
             "last_commit": "2022-04-30T07:51:12Z",
             "owner": "bodil",
@@ -356,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112514333,
             "language": "PureScript",
             "last_commit": "2020-04-23T09:58:14Z",
             "owner": "athanclark",
@@ -370,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99389069,
             "language": "PureScript",
             "last_commit": "2020-04-19T22:16:51Z",
             "owner": "athanclark",
@@ -381,7 +712,7 @@
       "title": "Asynchronicity and Parallelism"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -390,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119270415,
             "language": "PureScript",
             "last_commit": "2022-09-17T14:37:51Z",
             "owner": "purescript",
@@ -404,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33838543,
             "language": null,
             "last_commit": "2020-10-03T19:00:09Z",
             "owner": "purescript-deprecated",
@@ -415,7 +748,7 @@
       "title": "Effect Management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -424,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97152772,
             "language": "PureScript",
             "last_commit": "2023-06-02T13:18:40Z",
             "owner": "justinwoo",
@@ -438,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22507763,
             "language": "PureScript",
             "last_commit": "2022-04-27T23:20:22Z",
             "owner": "purescript-contrib",
@@ -449,7 +784,7 @@
       "title": "Json Serialization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -458,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292740012,
             "language": "PureScript",
             "last_commit": "2025-03-12T03:06:57Z",
             "owner": "rowtype-yoga",
@@ -472,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30353544,
             "language": "PureScript",
             "last_commit": "2023-02-13T06:51:10Z",
             "owner": "purescript-contrib",
@@ -486,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279579800,
             "language": "PureScript",
             "last_commit": "2023-05-17T15:22:05Z",
             "owner": "rowtype-yoga",
@@ -500,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243145109,
             "language": "PureScript",
             "last_commit": "2022-12-05T00:04:37Z",
             "owner": "rowtype-yoga",
@@ -514,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162048585,
             "language": "PureScript",
             "last_commit": "2021-05-09T06:43:30Z",
             "owner": "athanclark",
@@ -525,7 +865,7 @@
       "title": "Binary Serialization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -534,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16553076,
             "language": "PureScript",
             "last_commit": "2022-04-27T22:20:54Z",
             "owner": "purescript",
@@ -548,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26729548,
             "language": "PureScript",
             "last_commit": "2022-09-03T10:21:47Z",
             "owner": "bodil",
@@ -562,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35738465,
             "language": "PureScript",
             "last_commit": "2023-09-23T22:37:23Z",
             "owner": "hdgarrood",
@@ -576,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33361167,
             "language": "PureScript",
             "last_commit": "2022-10-17T15:34:55Z",
             "owner": "purescript-contrib",
@@ -585,26 +929,12 @@
         }
       ],
       "title": "Testing"
-    },
-    {
-      "description": "See Editor and tool support",
-      "items": [],
-      "title": "Editor and IDE Plugins"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Pascal Hartig has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:17:02.760Z",
+    "last_updated": "2026-08-19T12:47:32.006Z",
     "original_repository": "passy/awesome-purescript",
+    "original_repository_id": 35229424,
     "original_repository_sha": "cc4d1d75861b5b0e6d2ec7dd7cce7701218bd5a2",
     "enhanced_repository": "enhansome/enhansome-purescript",
     "enhanced_repository_description": null,
