@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,898 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,899 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
