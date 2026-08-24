@@ -167,6 +167,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "purescript-css",
+          "description": "A clean, type-safe library for describing, manipulating and rendering CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33643789,
+            "language": "PureScript",
+            "last_commit": "2023-07-25T00:59:29Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-css",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
           "title": "purescript-pux",
           "description": "Build type-safe web apps with PureScript.",
           "children": [],
@@ -798,7 +813,7 @@
             "last_commit": "2025-03-12T03:06:57Z",
             "owner": "rowtype-yoga",
             "repo": "purescript-protobuf",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -929,10 +944,52 @@
         }
       ],
       "title": "Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Book (ish) - Jordan's Purescript Reference",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141368519,
+            "language": "PureScript",
+            "last_commit": "2023-12-12T22:46:46Z",
+            "owner": "JordanMartinez",
+            "repo": "purescript-jordans-reference",
+            "stars": 596
+          }
+        }
+      ],
+      "title": "Learning Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Purescript Ecosystem",
+          "description": "Ranked list of popular libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48073912,
+            "language": null,
+            "last_commit": "2020-06-22T21:41:58Z",
+            "owner": "xgrommx",
+            "repo": "purescript-ecosystem",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "More Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:04:26.584Z",
+    "last_updated": "2026-08-24T14:25:18.692Z",
     "original_repository": "passy/awesome-purescript",
     "original_repository_id": 35229424,
     "original_repository_sha": "cc4d1d75861b5b0e6d2ec7dd7cce7701218bd5a2",

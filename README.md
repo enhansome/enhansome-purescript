@@ -89,7 +89,7 @@ Signals/Behaviors/FRP:
 
 ## Binary Serialization
 
-* [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) ⭐ 56 | 🐛 16 | 🌐 PureScript | 📅 2025-03-12 - Google Protocol Buffers
+* [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) ⭐ 57 | 🐛 16 | 🌐 PureScript | 📅 2025-03-12 - Google Protocol Buffers
 * [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) ⭐ 7 | 🐛 4 | 🌐 PureScript | 📅 2023-02-13 - Bindings to the ArrayBuffer JavaScript type.
 * [purescript-arraybuffer-builder](https://github.com/jamesdbrock/purescript-arraybuffer-builder) ⭐ 7 | 🐛 6 | 🌐 PureScript | 📅 2023-05-17 - Builder for serializing ArrayBuffer
 * [purescript-parsing-dataview](https://github.com/jamesdbrock/purescript-parsing-dataview) ⭐ 7 | 🐛 3 | 🌐 PureScript | 📅 2022-12-05 - Parser for deserializing ArrayBuffer
@@ -104,9 +104,9 @@ Signals/Behaviors/FRP:
 
 ## Learning Resources
 
+* [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) ⭐ 596 | 🐛 13 | 🌐 PureScript | 📅 2023-12-12
 * [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 * [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-* [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) ⭐ 596 | 🐛 13 | 🌐 PureScript | 📅 2023-12-12
 * [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 * [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 * [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,901 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,900 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
