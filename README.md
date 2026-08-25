@@ -63,7 +63,7 @@ Signals/Behaviors/FRP:
 
 ## Components
 
-* [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) ⭐ 136 | 🐛 2 | 🌐 PureScript | 📅 2026-01-28 - A renderless component for building painless forms in Halogen
+* [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) ⭐ 137 | 🐛 2 | 🌐 PureScript | 📅 2026-01-28 - A renderless component for building painless forms in Halogen
 * [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) ⭐ 64 | 🐛 1 | 🌐 PureScript | 📅 2026-07-30 - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
 * [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) ⭐ 12 | 🐛 0 | 🌐 PureScript | 📅 2018-09-06 - A day picker for Halogen
 * [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) ⚠️ Archived - A Halogen integration for the popular ECharts charting library
@@ -90,9 +90,9 @@ Signals/Behaviors/FRP:
 ## Binary Serialization
 
 * [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) ⭐ 57 | 🐛 16 | 🌐 PureScript | 📅 2025-03-12 - Google Protocol Buffers
+* [purescript-arraybuffer-builder](https://github.com/jamesdbrock/purescript-arraybuffer-builder) ⭐ 8 | 🐛 6 | 🌐 PureScript | 📅 2023-05-17 - Builder for serializing ArrayBuffer
+* [purescript-parsing-dataview](https://github.com/jamesdbrock/purescript-parsing-dataview) ⭐ 8 | 🐛 3 | 🌐 PureScript | 📅 2022-12-05 - Parser for deserializing ArrayBuffer
 * [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) ⭐ 7 | 🐛 4 | 🌐 PureScript | 📅 2023-02-13 - Bindings to the ArrayBuffer JavaScript type.
-* [purescript-arraybuffer-builder](https://github.com/jamesdbrock/purescript-arraybuffer-builder) ⭐ 7 | 🐛 6 | 🌐 PureScript | 📅 2023-05-17 - Builder for serializing ArrayBuffer
-* [purescript-parsing-dataview](https://github.com/jamesdbrock/purescript-parsing-dataview) ⭐ 7 | 🐛 3 | 🌐 PureScript | 📅 2022-12-05 - Parser for deserializing ArrayBuffer
 * [purescript-arraybuffer-class](https://github.com/athanclark/purescript-arraybuffer-class) ⭐ 5 | 🐛 1 | 🌐 PureScript | 📅 2021-05-09 - Typeclasses for ArrayBuffer encoding and decoding.
 
 ## Testing

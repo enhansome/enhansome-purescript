@@ -579,7 +579,7 @@
             "last_commit": "2026-01-28T13:57:15Z",
             "owner": "thomashoneyman",
             "repo": "purescript-halogen-formless",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -818,21 +818,6 @@
         },
         {
           "node_type": "item",
-          "title": "purescript-arraybuffer",
-          "description": "Bindings to the ArrayBuffer JavaScript type.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 30353544,
-            "language": "PureScript",
-            "last_commit": "2023-02-13T06:51:10Z",
-            "owner": "purescript-contrib",
-            "repo": "purescript-arraybuffer",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "purescript-arraybuffer-builder",
           "description": "Builder for serializing ArrayBuffer",
           "children": [],
@@ -843,7 +828,7 @@
             "last_commit": "2023-05-17T15:22:05Z",
             "owner": "rowtype-yoga",
             "repo": "purescript-arraybuffer-builder",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -858,6 +843,21 @@
             "last_commit": "2022-12-05T00:04:37Z",
             "owner": "rowtype-yoga",
             "repo": "purescript-parsing-dataview",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purescript-arraybuffer",
+          "description": "Bindings to the ArrayBuffer JavaScript type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30353544,
+            "language": "PureScript",
+            "last_commit": "2023-02-13T06:51:10Z",
+            "owner": "purescript-contrib",
+            "repo": "purescript-arraybuffer",
             "stars": 7
           }
         },
@@ -989,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:42.869Z",
+    "last_updated": "2026-08-25T19:18:19.827Z",
     "original_repository": "passy/awesome-purescript",
     "original_repository_id": 35229424,
     "original_repository_sha": "cc4d1d75861b5b0e6d2ec7dd7cce7701218bd5a2",
