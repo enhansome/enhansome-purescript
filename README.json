@@ -354,7 +354,7 @@
             "archived": false,
             "id": 180029846,
             "language": "PureScript",
-            "last_commit": "2026-08-12T02:18:57Z",
+            "last_commit": "2026-08-26T16:18:09Z",
             "owner": "easafe",
             "repo": "purescript-flame",
             "stars": 320
@@ -989,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:18:19.827Z",
+    "last_updated": "2026-08-26T21:15:30.509Z",
     "original_repository": "passy/awesome-purescript",
     "original_repository_id": 35229424,
     "original_repository_sha": "cc4d1d75861b5b0e6d2ec7dd7cce7701218bd5a2",
