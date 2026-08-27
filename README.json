@@ -342,7 +342,7 @@
             "last_commit": "2024-09-17T22:43:35Z",
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1596
+            "stars": 1597
           }
         },
         {
@@ -989,9 +989,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:15:30.509Z",
-    "original_repository": "passy/awesome-purescript",
-    "original_repository_id": 35229424,
+    "last_updated": "2026-08-27T11:59:40.590Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 35229424,
+      "language": null,
+      "last_commit": "2022-11-30T07:57:32Z",
+      "owner": "passy",
+      "repo": "awesome-purescript",
+      "stars": 483
+    },
     "original_repository_sha": "cc4d1d75861b5b0e6d2ec7dd7cce7701218bd5a2",
     "enhanced_repository": "enhansome/enhansome-purescript",
     "enhanced_repository_description": null,
