@@ -16,7 +16,8 @@
             "owner": "purescript",
             "repo": "spago",
             "stars": 832
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "purescript-contrib",
             "repo": "pulp",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "purescript",
             "repo": "psc-package",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ethul",
             "repo": "purs-loader",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "natefaubion",
             "repo": "purescript-psa",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "purescript-deprecated",
             "repo": "gulp-purescript",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ThomasCrevoisier",
             "repo": "psvm-js",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "purescript-deprecated",
             "repo": "grunt-purescript",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Build Tooling"
@@ -142,7 +150,8 @@
             "owner": "purescript",
             "repo": "purescript-prelude",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "tfausak",
             "repo": "purescript-batteries",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Preludes"
@@ -178,7 +188,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-css",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "alexmingoia",
             "repo": "purescript-pux",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-react",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "paf31",
             "repo": "purescript-thermite",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "purescript-react",
             "repo": "purescript-react-basic",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "purescript-concur",
             "repo": "purescript-concur-react",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "juspay",
             "repo": "purescript-presto",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "purescript-react",
             "repo": "purescript-react-basic-hooks",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "natefaubion",
             "repo": "purescript-spork",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "zrho",
             "repo": "purescript-optic-ui",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "paf31",
             "repo": "purescript-react-explore",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
             "stars": 1597
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "easafe",
             "repo": "purescript-flame",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "utkarshkukreti",
             "repo": "purescript-hedwig",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "sharkdp",
             "repo": "purescript-flare",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "paf31",
             "repo": "purescript-sdom",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "restaumatic",
             "repo": "purescript-specular",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "paf31",
             "repo": "purescript-purview",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "funkia",
             "repo": "purescript-turbine",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "i-am-tom",
             "repo": "purescript-panda",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "outwatch",
             "repo": "purescript-outwatch",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "UI Libraries"
@@ -499,7 +530,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-routing",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "natefaubion",
             "repo": "purescript-routing-duplex",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "purescript-hyper",
             "repo": "purescript-trout",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "coot",
             "repo": "purescript-cofree-react-router",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "paluh",
             "repo": "purescript-boomboom",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "URL Routers"
@@ -580,7 +616,8 @@
             "owner": "thomashoneyman",
             "repo": "purescript-halogen-formless",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "davezuch",
             "repo": "purescript-halogen-select",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "rnons",
             "repo": "purescript-halogen-day-picker",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "slamdata",
             "repo": "purescript-halogen-echarts",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "slamdata",
             "repo": "purescript-halogen-menu",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Components"
@@ -661,7 +702,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-aff",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-aff",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "bodil",
             "repo": "purescript-signal",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "athanclark",
             "repo": "purescript-zeta",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "athanclark",
             "repo": "purescript-queue",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Asynchronicity and Parallelism"
@@ -742,7 +788,8 @@
             "owner": "purescript",
             "repo": "purescript-effect",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -757,7 +804,8 @@
             "owner": "purescript-deprecated",
             "repo": "purescript-eff",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Effect Management"
@@ -778,7 +826,8 @@
             "owner": "justinwoo",
             "repo": "purescript-simple-json",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -793,7 +842,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-argonaut",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Json Serialization"
@@ -814,7 +864,8 @@
             "owner": "rowtype-yoga",
             "repo": "purescript-protobuf",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -829,7 +880,8 @@
             "owner": "rowtype-yoga",
             "repo": "purescript-arraybuffer-builder",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -844,7 +896,8 @@
             "owner": "rowtype-yoga",
             "repo": "purescript-parsing-dataview",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -859,7 +912,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-arraybuffer",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -874,7 +928,8 @@
             "owner": "athanclark",
             "repo": "purescript-arraybuffer-class",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Binary Serialization"
@@ -895,7 +950,8 @@
             "owner": "purescript",
             "repo": "purescript-quickcheck",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -910,7 +966,8 @@
             "owner": "bodil",
             "repo": "purescript-test-unit",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -925,7 +982,8 @@
             "owner": "hdgarrood",
             "repo": "purescript-benchotron",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         },
         {
           "node_type": "item",
@@ -940,7 +998,8 @@
             "owner": "purescript-contrib",
             "repo": "purescript-quickcheck-laws",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Testing"
@@ -961,7 +1020,8 @@
             "owner": "JordanMartinez",
             "repo": "purescript-jordans-reference",
             "stars": 596
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "Learning Resources"
@@ -982,14 +1042,15 @@
             "owner": "xgrommx",
             "repo": "purescript-ecosystem",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-29T01:54:59.862Z"
         }
       ],
       "title": "More Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:21:02.861Z",
+    "last_updated": "2026-08-29T01:54:59.862Z",
     "original_repository_info": {
       "archived": false,
       "id": 35229424,
