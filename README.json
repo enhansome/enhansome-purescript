@@ -324,7 +324,7 @@
             "open_issues": 14,
             "owner": "paf31",
             "repo": "purescript-thermite",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -387,7 +387,7 @@
             "open_issues": 11,
             "owner": "juspay",
             "repo": "purescript-presto",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "app-development",
               "functional-programming",
@@ -974,7 +974,7 @@
             "open_issues": 22,
             "owner": "purescript-contrib",
             "repo": "purescript-aff",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -995,7 +995,7 @@
             "open_issues": 22,
             "owner": "purescript-contrib",
             "repo": "purescript-aff",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:02:20.742Z",
+    "last_updated": "2026-09-01T21:21:56.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
@@ -1474,7 +1474,7 @@
       "open_issues": 9,
       "owner": "passy",
       "repo": "awesome-purescript",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "awesome",
         "awesome-list",
