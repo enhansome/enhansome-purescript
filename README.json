@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "purescript",
             "repo": "spago",
-            "stars": 832,
+            "stars": 830,
             "topics": [
               "build-tool",
               "package-manager",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:21:56.164Z",
+    "last_updated": "2026-09-02T21:19:57.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
