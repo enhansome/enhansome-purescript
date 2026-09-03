@@ -522,7 +522,7 @@
             "open_issues": 7,
             "owner": "easafe",
             "repo": "purescript-flame",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "elm-architecture",
               "purescript",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:19:57.140Z",
+    "last_updated": "2026-09-03T21:22:34.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
