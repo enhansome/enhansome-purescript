@@ -518,8 +518,8 @@
             "id": 180029846,
             "language": "PureScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T16:18:09Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-04T10:43:44Z",
+            "open_issues": 8,
             "owner": "easafe",
             "repo": "purescript-flame",
             "stars": 321,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:22:34.646Z",
+    "last_updated": "2026-09-04T21:03:15.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
