@@ -71,8 +71,8 @@ Signals/Behaviors/FRP:
 
 ## Asynchronicity and Parallelism
 
-* [purescript-aff](https://github.com/slamdata/purescript-aff) ⭐ 289 | 🐛 22 | 🌐 PureScript | 📅 2024-09-08 - An asynchronous effect monad for PureScript.
-* [purescript-affjax](https://github.com/slamdata/purescript-aff) ⭐ 289 | 🐛 22 | 🌐 PureScript | 📅 2024-09-08 - An asynchronous AJAX library built using Aff.
+* [purescript-aff](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2024-09-08 - An asynchronous effect monad for PureScript.
+* [purescript-affjax](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2024-09-08 - An asynchronous AJAX library built using Aff.
 * [purescript-signal](https://github.com/bodil/purescript-signal) ⭐ 260 | 🐛 9 | 🌐 PureScript | 📅 2022-04-30 - An asynchronous signal library for PureScript, similar to Elm.
 * [purescript-zeta](https://github.com/athanclark/purescript-zeta) ⭐ 4 | 🐛 0 | 🌐 PureScript | 📅 2020-04-23 - An alternative signal implementation in PureScript.
 * [purescript-queue](https://github.com/athanclark/purescript-queue) ⭐ 3 | 🐛 2 | 🌐 PureScript | 📅 2020-04-19 - An asynchronous queue library for PureScript.
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,904 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,905 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

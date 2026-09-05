@@ -974,7 +974,7 @@
             "open_issues": 22,
             "owner": "purescript-contrib",
             "repo": "purescript-aff",
-            "stars": 289,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -995,7 +995,7 @@
             "open_issues": 22,
             "owner": "purescript-contrib",
             "repo": "purescript-aff",
-            "stars": 289,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:03:15.966Z",
+    "last_updated": "2026-09-05T20:44:07.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
