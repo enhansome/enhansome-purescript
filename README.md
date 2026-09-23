@@ -89,7 +89,7 @@ Signals/Behaviors/FRP:
 
 ## Binary Serialization
 
-* [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) ⭐ 57 | 🐛 16 | 🌐 PureScript | 📅 2025-03-12 - Google Protocol Buffers
+* [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) ⭐ 57 | 🐛 16 | 🌐 PureScript | 📅 2026-09-23 - Google Protocol Buffers
 * [purescript-arraybuffer-builder](https://github.com/jamesdbrock/purescript-arraybuffer-builder) ⭐ 8 | 🐛 6 | 🌐 PureScript | 📅 2023-05-17 - Builder for serializing ArrayBuffer
 * [purescript-parsing-dataview](https://github.com/jamesdbrock/purescript-parsing-dataview) ⭐ 8 | 🐛 3 | 🌐 PureScript | 📅 2022-12-05 - Parser for deserializing ArrayBuffer
 * [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) ⭐ 7 | 🐛 4 | 🌐 PureScript | 📅 2023-02-13 - Bindings to the ArrayBuffer JavaScript type.
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
