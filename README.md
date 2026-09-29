@@ -45,7 +45,7 @@ Virtual-DOM based:
 
 Signals/Behaviors/FRP:
 
-* [purescript-flare](https://github.com/sharkdp/purescript-flare) ⭐ 285 | 🐛 6 | 🌐 PureScript | 📅 2020-07-22 - Applicative-style reactive user interfaces built on top of purescript-signal.
+* [purescript-flare](https://github.com/sharkdp/purescript-flare) ⭐ 286 | 🐛 6 | 🌐 PureScript | 📅 2020-07-22 - Applicative-style reactive user interfaces built on top of purescript-signal.
 * [purescript-sdom](https://github.com/paf31/purescript-sdom) ⚠️ Archived - An experiment in replacing the virtual DOM and avoiding diffing.
 * [purescript-specular](https://github.com/restaumatic/purescript-specular) ⭐ 133 | 🐛 6 | 🌐 PureScript | 📅 2025-08-21 - A Reflex-Dom inspired UI library for PureScript.
 * [purescript-purview](https://github.com/paf31/purescript-purview) ⚠️ Archived - A UI library based on the incremental lambda calculus.
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,911 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,912 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

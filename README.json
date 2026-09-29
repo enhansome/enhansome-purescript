@@ -569,7 +569,7 @@
             "open_issues": 6,
             "owner": "sharkdp",
             "repo": "purescript-flare",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "purescript",
               "reactive",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:31:37.384Z",
+    "last_updated": "2026-09-29T22:39:21.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
