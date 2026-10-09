@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 831 | 🐛 43 | 🌐 PureScript | 📅 2026-10-05 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 831 | 🐛 42 | 🌐 PureScript | 📅 2026-10-09 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -39,7 +39,7 @@ React-based:
 
 Virtual-DOM based:
 
-* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,599 | 🐛 77 | 🌐 PureScript | 📅 2024-09-17 - A declarative, type-safe UI library.
+* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,598 | 🐛 77 | 🌐 PureScript | 📅 2024-09-17 - A declarative, type-safe UI library.
 * [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 321 | 🐛 8 | 🌐 PureScript | 📅 2026-09-13 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 * [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 130 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
@@ -63,7 +63,7 @@ Signals/Behaviors/FRP:
 
 ## Components
 
-* [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) ⭐ 137 | 🐛 2 | 🌐 PureScript | 📅 2026-01-28 - A renderless component for building painless forms in Halogen
+* [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) ⭐ 137 | 🐛 1 | 🌐 PureScript | 📅 2026-10-09 - A renderless component for building painless forms in Halogen
 * [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) ⭐ 64 | 🐛 1 | 🌐 PureScript | 📅 2026-07-30 - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
 * [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) ⭐ 12 | 🐛 0 | 🌐 PureScript | 📅 2018-09-06 - A day picker for Halogen
 * [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) ⚠️ Archived - A Halogen integration for the popular ECharts charting library
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
