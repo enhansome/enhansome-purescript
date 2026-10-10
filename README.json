@@ -15,8 +15,8 @@
             "id": 149850277,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T22:22:04Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-10T08:46:00Z",
+            "open_issues": 39,
             "owner": "purescript",
             "repo": "spago",
             "stars": 831,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:54:50.606Z",
+    "last_updated": "2026-10-10T22:00:12.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
