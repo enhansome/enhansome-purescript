@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 831 | 🐛 39 | 🌐 PureScript | 📅 2026-10-10 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 39 | 🌐 PureScript | 📅 2026-10-10 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -22,12 +22,12 @@
 
 CSS:
 
-* [purescript-css](https://github.com/slamdata/purescript-css) ⭐ 108 | 🐛 46 | 🌐 PureScript | 📅 2023-07-25 - A clean, type-safe library for describing, manipulating and rendering CSS.
+* [purescript-css](https://github.com/slamdata/purescript-css) ⭐ 108 | 🐛 46 | 🌐 PureScript | 📅 2026-10-11 - A clean, type-safe library for describing, manipulating and rendering CSS.
 
 React-based:
 
 * [purescript-pux](https://github.com/alexmingoia/purescript-pux) ⭐ 568 | 🐛 19 | 🌐 PureScript | 📅 2023-01-12 - Build type-safe web apps with PureScript.
-* [purescript-react](https://github.com/purescript-contrib/purescript-react) ⭐ 410 | 🐛 14 | 🌐 PureScript | 📅 2023-01-05 - React bindings for PureScript
+* [purescript-react](https://github.com/purescript-contrib/purescript-react) ⭐ 410 | 🐛 14 | 🌐 PureScript | 📅 2026-10-11 - React bindings for PureScript
 * [purescript-thermite](https://github.com/paf31/purescript-thermite) ⭐ 351 | 🐛 14 | 🌐 PureScript | 📅 2022-12-02 - A simple wrapper for ReactJS inspired by `react-blaze`.
 * [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) ⭐ 287 | 🐛 11 | 🌐 PureScript | 📅 2025-04-27 - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
 * [purescript-concur](https://github.com/ajnsit/purescript-concur) ⭐ 271 | 🐛 16 | 🌐 PureScript | 📅 2024-12-09 - Concur UI framework. React backend, but can use others.
@@ -39,7 +39,7 @@ React-based:
 
 Virtual-DOM based:
 
-* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,598 | 🐛 77 | 🌐 PureScript | 📅 2024-09-17 - A declarative, type-safe UI library.
+* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,598 | 🐛 77 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
 * [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 321 | 🐛 8 | 🌐 PureScript | 📅 2026-09-13 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 * [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 130 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
@@ -55,7 +55,7 @@ Signals/Behaviors/FRP:
 
 ## URL Routers
 
-* [purescript-routing](https://github.com/slamdata/purescript-routing) ⭐ 107 | 🐛 9 | 🌐 PureScript | 📅 2022-05-24 - A clean, type-safe routing library for PureScript.
+* [purescript-routing](https://github.com/slamdata/purescript-routing) ⭐ 107 | 🐛 9 | 🌐 PureScript | 📅 2026-10-11 - A clean, type-safe routing library for PureScript.
 * [purescript-routing-duplex](https://github.com/natefaubion/purescript-routing-duplex) ⭐ 94 | 🐛 11 | 🌐 PureScript | 📅 2023-06-15 - Simple bidirectional parser/printers for your routing data types.
 * [purescript-trout](https://github.com/owickstrom/purescript-trout) ⭐ 42 | 🐛 3 | 🌐 PureScript | 📅 2020-06-22 - Type-level routing for PureScript.
 * [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) ⭐ 26 | 🐛 3 | 🌐 PureScript | 📅 2018-03-11 - React-Router implemented in PureScript as Cofree Comonad for the Array functor.
@@ -71,8 +71,8 @@ Signals/Behaviors/FRP:
 
 ## Asynchronicity and Parallelism
 
-* [purescript-aff](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2024-09-08 - An asynchronous effect monad for PureScript.
-* [purescript-affjax](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2024-09-08 - An asynchronous AJAX library built using Aff.
+* [purescript-aff](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2026-10-11 - An asynchronous effect monad for PureScript.
+* [purescript-affjax](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2026-10-11 - An asynchronous AJAX library built using Aff.
 * [purescript-signal](https://github.com/bodil/purescript-signal) ⭐ 260 | 🐛 9 | 🌐 PureScript | 📅 2022-04-30 - An asynchronous signal library for PureScript, similar to Elm.
 * [purescript-zeta](https://github.com/athanclark/purescript-zeta) ⭐ 4 | 🐛 0 | 🌐 PureScript | 📅 2020-04-23 - An alternative signal implementation in PureScript.
 * [purescript-queue](https://github.com/athanclark/purescript-queue) ⭐ 3 | 🐛 2 | 🌐 PureScript | 📅 2020-04-19 - An asynchronous queue library for PureScript.
@@ -85,14 +85,14 @@ Signals/Behaviors/FRP:
 ## Json Serialization
 
 * [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) ⭐ 134 | 🐛 5 | 🌐 PureScript | 📅 2023-06-02 - Json encoding and decoding through Generics.
-* [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) ⭐ 63 | 🐛 1 | 🌐 PureScript | 📅 2022-04-27 - Json encoding and decoding typeclasses.
+* [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) ⭐ 63 | 🐛 1 | 🌐 PureScript | 📅 2026-10-11 - Json encoding and decoding typeclasses.
 
 ## Binary Serialization
 
 * [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) ⭐ 57 | 🐛 16 | 🌐 PureScript | 📅 2026-09-23 - Google Protocol Buffers
 * [purescript-arraybuffer-builder](https://github.com/jamesdbrock/purescript-arraybuffer-builder) ⭐ 8 | 🐛 6 | 🌐 PureScript | 📅 2023-05-17 - Builder for serializing ArrayBuffer
 * [purescript-parsing-dataview](https://github.com/jamesdbrock/purescript-parsing-dataview) ⭐ 8 | 🐛 3 | 🌐 PureScript | 📅 2022-12-05 - Parser for deserializing ArrayBuffer
-* [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) ⭐ 7 | 🐛 4 | 🌐 PureScript | 📅 2023-02-13 - Bindings to the ArrayBuffer JavaScript type.
+* [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) ⭐ 7 | 🐛 4 | 🌐 PureScript | 📅 2026-10-11 - Bindings to the ArrayBuffer JavaScript type.
 * [purescript-arraybuffer-class](https://github.com/athanclark/purescript-arraybuffer-class) ⭐ 5 | 🐛 1 | 🌐 PureScript | 📅 2021-05-09 - Typeclasses for ArrayBuffer encoding and decoding.
 
 ## Testing
@@ -100,7 +100,7 @@ Signals/Behaviors/FRP:
 * [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) ⭐ 108 | 🐛 14 | 🌐 PureScript | 📅 2022-04-27 - An implementation of QuickCheck in PureScript.
 * [purescript-test-unit](https://github.com/bodil/purescript-test-unit) ⭐ 90 | 🐛 8 | 🌐 PureScript | 📅 2022-09-03 - An asynchronous unit test runner for PureScript.
 * [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) ⚠️ Archived - Straightforward benchmarking for PureScript/JavaScript.
-* [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) ⭐ 27 | 🐛 9 | 🌐 PureScript | 📅 2022-10-17 - Law tests for core classes.
+* [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) ⭐ 27 | 🐛 10 | 🌐 PureScript | 📅 2026-10-11 - Law tests for core classes.
 
 ## Learning Resources
 
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,914 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,913 | 🐛 307 | 🌐 Haskell | 📅 2026-07-08
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
