@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 39 | 🌐 PureScript | 📅 2026-10-10 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 39 | 🌐 PureScript | 📅 2026-10-13 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -15,7 +15,7 @@
 
 ## Preludes
 
-* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 28 | 🌐 PureScript | 📅 2025-05-17 - The standard Prelude.
+* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 28 | 🌐 PureScript | 📅 2026-10-13 - The standard Prelude.
 * [purescript-batteries](https://github.com/tfausak/purescript-batteries) ⚠️ Archived - A PureScript prelude with more features.
 
 ## UI Libraries
