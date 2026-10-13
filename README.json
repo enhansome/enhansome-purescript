@@ -493,8 +493,8 @@
             "id": 31337302,
             "language": "PureScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T11:18:49Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-11T23:58:47Z",
+            "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
             "stars": 1598,
@@ -1385,8 +1385,8 @@
             "id": 33361167,
             "language": "PureScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T21:43:05Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-11T23:35:39Z",
+            "open_issues": 9,
             "owner": "purescript-contrib",
             "repo": "purescript-quickcheck-laws",
             "stars": 27,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:29:19.950Z",
+    "last_updated": "2026-10-13T00:58:57.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
