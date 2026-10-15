@@ -16,7 +16,7 @@
             "language": "PureScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-14T12:32:43Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "purescript",
             "repo": "spago",
             "stars": 830,
@@ -203,7 +203,7 @@
             "id": 33838632,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T21:18:31Z",
+            "last_commit": "2026-10-15T21:26:21Z",
             "open_issues": 29,
             "owner": "purescript",
             "repo": "purescript-prelude",
@@ -366,7 +366,7 @@
             "open_issues": 16,
             "owner": "purescript-concur",
             "repo": "purescript-concur-react",
-            "stars": 271,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -1092,8 +1092,8 @@
             "id": 119270415,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2022-09-17T14:37:51Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-15T21:26:31Z",
+            "open_issues": 1,
             "owner": "purescript",
             "repo": "purescript-effect",
             "stars": 54,
@@ -1322,8 +1322,8 @@
             "id": 16553076,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2022-04-27T22:20:54Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-15T21:26:21Z",
+            "open_issues": 15,
             "owner": "purescript",
             "repo": "purescript-quickcheck",
             "stars": 108,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:57:08.915Z",
+    "last_updated": "2026-10-15T21:48:07.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
