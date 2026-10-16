@@ -203,7 +203,7 @@
             "id": 33838632,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T21:26:21Z",
+            "last_commit": "2026-10-16T12:19:50Z",
             "open_issues": 29,
             "owner": "purescript",
             "repo": "purescript-prelude",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:48:07.527Z",
+    "last_updated": "2026-10-16T21:43:49.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",

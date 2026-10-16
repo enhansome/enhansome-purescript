@@ -15,7 +15,7 @@
 
 ## Preludes
 
-* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 29 | 🌐 PureScript | 📅 2026-10-15 - The standard Prelude.
+* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 29 | 🌐 PureScript | 📅 2026-10-16 - The standard Prelude.
 * [purescript-batteries](https://github.com/tfausak/purescript-batteries) ⚠️ Archived - A PureScript prelude with more features.
 
 ## UI Libraries
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
