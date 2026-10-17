@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 38 | 🌐 PureScript | 📅 2026-10-14 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 40 | 🌐 PureScript | 📅 2026-10-17 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -15,7 +15,7 @@
 
 ## Preludes
 
-* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 29 | 🌐 PureScript | 📅 2026-10-16 - The standard Prelude.
+* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 28 | 🌐 PureScript | 📅 2026-10-17 - The standard Prelude.
 * [purescript-batteries](https://github.com/tfausak/purescript-batteries) ⚠️ Archived - A PureScript prelude with more features.
 
 ## UI Libraries
@@ -79,7 +79,7 @@ Signals/Behaviors/FRP:
 
 ## Effect Management
 
-* [purescript-effect](https://github.com/purescript/purescript-effect) ⭐ 54 | 🐛 1 | 🌐 PureScript | 📅 2026-10-15 - The Effect monad, for handling native side effects in PureScript v0.12.x.
+* [purescript-effect](https://github.com/purescript/purescript-effect) ⭐ 54 | 🐛 1 | 🌐 PureScript | 📅 2026-10-17 - The Effect monad, for handling native side effects in PureScript v0.12.x.
 * [purescript-eff](https://github.com/purescript/purescript-eff) ⚠️ Archived - The Eff monad, for handling native side effects.
 
 ## Json Serialization
@@ -97,7 +97,7 @@ Signals/Behaviors/FRP:
 
 ## Testing
 
-* [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) ⭐ 108 | 🐛 15 | 🌐 PureScript | 📅 2026-10-15 - An implementation of QuickCheck in PureScript.
+* [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) ⭐ 108 | 🐛 15 | 🌐 PureScript | 📅 2026-10-17 - An implementation of QuickCheck in PureScript.
 * [purescript-test-unit](https://github.com/bodil/purescript-test-unit) ⭐ 90 | 🐛 8 | 🌐 PureScript | 📅 2022-09-03 - An asynchronous unit test runner for PureScript.
 * [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) ⚠️ Archived - Straightforward benchmarking for PureScript/JavaScript.
 * [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) ⭐ 27 | 🐛 9 | 🌐 PureScript | 📅 2026-10-11 - Law tests for core classes.
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,913 | 🐛 308 | 🌐 Haskell | 📅 2026-10-14
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,912 | 🐛 308 | 🌐 Haskell | 📅 2026-10-14
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
