@@ -15,7 +15,7 @@
             "id": 149850277,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T19:59:01Z",
+            "last_commit": "2026-10-18T00:18:04Z",
             "open_issues": 40,
             "owner": "purescript",
             "repo": "spago",
@@ -497,7 +497,7 @@
             "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1598,
+            "stars": 1599,
             "topics": [
               "purescript",
               "ui",
@@ -1092,8 +1092,8 @@
             "id": 119270415,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T13:47:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-17T22:09:48Z",
+            "open_issues": 0,
             "owner": "purescript",
             "repo": "purescript-effect",
             "stars": 54,
@@ -1322,8 +1322,8 @@
             "id": 16553076,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T16:20:00Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-18T01:11:58Z",
+            "open_issues": 14,
             "owner": "purescript",
             "repo": "purescript-quickcheck",
             "stars": 108,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:59:39.375Z",
+    "last_updated": "2026-10-18T21:03:43.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",

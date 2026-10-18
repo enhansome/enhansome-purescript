@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 40 | 🌐 PureScript | 📅 2026-10-17 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 40 | 🌐 PureScript | 📅 2026-10-18 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -39,7 +39,7 @@ React-based:
 
 Virtual-DOM based:
 
-* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,598 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
+* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,599 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
 * [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 321 | 🐛 8 | 🌐 PureScript | 📅 2026-09-13 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 * [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 130 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
@@ -79,7 +79,7 @@ Signals/Behaviors/FRP:
 
 ## Effect Management
 
-* [purescript-effect](https://github.com/purescript/purescript-effect) ⭐ 54 | 🐛 1 | 🌐 PureScript | 📅 2026-10-17 - The Effect monad, for handling native side effects in PureScript v0.12.x.
+* [purescript-effect](https://github.com/purescript/purescript-effect) ⭐ 54 | 🐛 0 | 🌐 PureScript | 📅 2026-10-17 - The Effect monad, for handling native side effects in PureScript v0.12.x.
 * [purescript-eff](https://github.com/purescript/purescript-eff) ⚠️ Archived - The Eff monad, for handling native side effects.
 
 ## Json Serialization
@@ -97,7 +97,7 @@ Signals/Behaviors/FRP:
 
 ## Testing
 
-* [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) ⭐ 108 | 🐛 15 | 🌐 PureScript | 📅 2026-10-17 - An implementation of QuickCheck in PureScript.
+* [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) ⭐ 108 | 🐛 14 | 🌐 PureScript | 📅 2026-10-18 - An implementation of QuickCheck in PureScript.
 * [purescript-test-unit](https://github.com/bodil/purescript-test-unit) ⭐ 90 | 🐛 8 | 🌐 PureScript | 📅 2022-09-03 - An asynchronous unit test runner for PureScript.
 * [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) ⚠️ Archived - Straightforward benchmarking for PureScript/JavaScript.
 * [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) ⭐ 27 | 🐛 9 | 🌐 PureScript | 📅 2026-10-11 - Law tests for core classes.
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
