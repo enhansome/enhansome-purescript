@@ -15,8 +15,8 @@
             "id": 149850277,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T18:21:23Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-22T20:40:26Z",
+            "open_issues": 39,
             "owner": "purescript",
             "repo": "spago",
             "stars": 830,
@@ -522,7 +522,7 @@
             "open_issues": 8,
             "owner": "easafe",
             "repo": "purescript-flame",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "elm-architecture",
               "purescript",
@@ -845,7 +845,7 @@
             "id": 139774364,
             "language": "PureScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T21:49:47Z",
+            "last_commit": "2026-10-22T19:24:33Z",
             "open_issues": 1,
             "owner": "thomashoneyman",
             "repo": "purescript-halogen-formless",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:59:23.646Z",
+    "last_updated": "2026-10-22T21:55:55.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
