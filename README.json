@@ -207,7 +207,7 @@
             "open_issues": 28,
             "owner": "purescript",
             "repo": "purescript-prelude",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -497,7 +497,7 @@
             "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1599,
+            "stars": 1600,
             "topics": [
               "purescript",
               "ui",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:12:59.659Z",
+    "last_updated": "2026-10-25T21:15:32.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",

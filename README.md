@@ -15,7 +15,7 @@
 
 ## Preludes
 
-* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 167 | 🐛 28 | 🌐 PureScript | 📅 2026-10-17 - The standard Prelude.
+* [purescript-prelude](https://github.com/purescript/purescript-prelude) ⭐ 168 | 🐛 28 | 🌐 PureScript | 📅 2026-10-17 - The standard Prelude.
 * [purescript-batteries](https://github.com/tfausak/purescript-batteries) ⚠️ Archived - A PureScript prelude with more features.
 
 ## UI Libraries
@@ -39,7 +39,7 @@ React-based:
 
 Virtual-DOM based:
 
-* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,599 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
+* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,600 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
 * [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 322 | 🐛 8 | 🌐 PureScript | 📅 2026-09-13 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 * [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 130 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,914 | 🐛 307 | 🌐 Haskell | 📅 2026-10-21
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,916 | 🐛 307 | 🌐 Haskell | 📅 2026-10-21
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
