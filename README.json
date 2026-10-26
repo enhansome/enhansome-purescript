@@ -611,8 +611,8 @@
             "id": 112614520,
             "language": "PureScript",
             "license": "MIT",
-            "last_commit": "2025-08-21T15:25:57Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-26T14:14:25Z",
+            "open_issues": 7,
             "owner": "restaumatic",
             "repo": "purescript-specular",
             "stars": 133,
@@ -1416,7 +1416,7 @@
             "open_issues": 13,
             "owner": "JordanMartinez",
             "repo": "purescript-jordans-reference",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "documentation",
               "learn",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:15:32.694Z",
+    "last_updated": "2026-10-26T22:53:23.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",

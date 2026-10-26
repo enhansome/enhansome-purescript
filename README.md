@@ -47,7 +47,7 @@ Signals/Behaviors/FRP:
 
 * [purescript-flare](https://github.com/sharkdp/purescript-flare) ⭐ 286 | 🐛 6 | 🌐 PureScript | 📅 2020-07-22 - Applicative-style reactive user interfaces built on top of purescript-signal.
 * [purescript-sdom](https://github.com/paf31/purescript-sdom) ⚠️ Archived - An experiment in replacing the virtual DOM and avoiding diffing.
-* [purescript-specular](https://github.com/restaumatic/purescript-specular) ⭐ 133 | 🐛 6 | 🌐 PureScript | 📅 2025-08-21 - A Reflex-Dom inspired UI library for PureScript.
+* [purescript-specular](https://github.com/restaumatic/purescript-specular) ⭐ 133 | 🐛 7 | 🌐 PureScript | 📅 2026-10-26 - A Reflex-Dom inspired UI library for PureScript.
 * [purescript-purview](https://github.com/paf31/purescript-purview) ⚠️ Archived - A UI library based on the incremental lambda calculus.
 * [purescript-turbine](https://github.com/funkia/purescript-turbine) ⭐ 82 | 🐛 1 | 🌐 PureScript | 📅 2019-12-15 - Purely functional frontend framework powered by FRP.
 * [purescript-panda](https://github.com/i-am-tom/purescript-panda) ⚠️ Archived - What would TEA look like if we had no VDOM?
@@ -104,7 +104,7 @@ Signals/Behaviors/FRP:
 
 ## Learning Resources
 
-* [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) ⭐ 596 | 🐛 13 | 🌐 PureScript | 📅 2023-12-12
+* [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) ⭐ 597 | 🐛 13 | 🌐 PureScript | 📅 2023-12-12
 * [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 * [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 * [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
