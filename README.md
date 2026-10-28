@@ -47,7 +47,7 @@ Signals/Behaviors/FRP:
 
 * [purescript-flare](https://github.com/sharkdp/purescript-flare) ⭐ 286 | 🐛 6 | 🌐 PureScript | 📅 2020-07-22 - Applicative-style reactive user interfaces built on top of purescript-signal.
 * [purescript-sdom](https://github.com/paf31/purescript-sdom) ⚠️ Archived - An experiment in replacing the virtual DOM and avoiding diffing.
-* [purescript-specular](https://github.com/restaumatic/purescript-specular) ⭐ 133 | 🐛 7 | 🌐 PureScript | 📅 2026-10-26 - A Reflex-Dom inspired UI library for PureScript.
+* [purescript-specular](https://github.com/restaumatic/purescript-specular) ⭐ 133 | 🐛 6 | 🌐 PureScript | 📅 2026-10-28 - A Reflex-Dom inspired UI library for PureScript.
 * [purescript-purview](https://github.com/paf31/purescript-purview) ⚠️ Archived - A UI library based on the incremental lambda calculus.
 * [purescript-turbine](https://github.com/funkia/purescript-turbine) ⭐ 82 | 🐛 1 | 🌐 PureScript | 📅 2019-12-15 - Purely functional frontend framework powered by FRP.
 * [purescript-panda](https://github.com/i-am-tom/purescript-panda) ⚠️ Archived - What would TEA look like if we had no VDOM?
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,916 | 🐛 307 | 🌐 Haskell | 📅 2026-10-21
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,917 | 🐛 307 | 🌐 Haskell | 📅 2026-10-21
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

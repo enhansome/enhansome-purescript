@@ -611,8 +611,8 @@
             "id": 112614520,
             "language": "PureScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:14:25Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-28T11:04:51Z",
+            "open_issues": 6,
             "owner": "restaumatic",
             "repo": "purescript-specular",
             "stars": 133,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:37:58.173Z",
+    "last_updated": "2026-10-28T22:52:56.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
