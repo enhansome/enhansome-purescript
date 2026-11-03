@@ -1416,7 +1416,7 @@
             "open_issues": 13,
             "owner": "JordanMartinez",
             "repo": "purescript-jordans-reference",
-            "stars": 597,
+            "stars": 598,
             "topics": [
               "documentation",
               "learn",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:26:55.682Z",
+    "last_updated": "2026-11-03T01:18:26.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",

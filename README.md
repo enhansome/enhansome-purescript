@@ -104,7 +104,7 @@ Signals/Behaviors/FRP:
 
 ## Learning Resources
 
-* [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) ⭐ 597 | 🐛 13 | 🌐 PureScript | 📅 2023-12-12
+* [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference) ⭐ 598 | 🐛 13 | 🌐 PureScript | 📅 2023-12-12
 * [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 * [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 * [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
