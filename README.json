@@ -255,7 +255,7 @@
             "open_issues": 46,
             "owner": "purescript-contrib",
             "repo": "purescript-css",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -410,7 +410,7 @@
             "language": "PureScript",
             "license": "Apache-2.0",
             "last_commit": "2026-04-09T14:42:21Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "purescript-react",
             "repo": "purescript-react-basic-hooks",
             "stars": 204,
@@ -1013,7 +1013,7 @@
             "language": "PureScript",
             "license": "Apache-2.0",
             "last_commit": "2022-04-30T07:51:12Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "bodil",
             "repo": "purescript-signal",
             "stars": 260,
@@ -1344,7 +1344,7 @@
             "language": "PureScript",
             "license": "LGPL-3.0",
             "last_commit": "2022-09-03T10:21:47Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "bodil",
             "repo": "purescript-test-unit",
             "stars": 90,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:42:31.745Z",
+    "last_updated": "2026-11-04T23:56:37.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
@@ -1474,7 +1474,7 @@
       "open_issues": 9,
       "owner": "passy",
       "repo": "awesome-purescript",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "awesome",
         "awesome-list",

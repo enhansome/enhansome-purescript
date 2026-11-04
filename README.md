@@ -22,7 +22,7 @@
 
 CSS:
 
-* [purescript-css](https://github.com/slamdata/purescript-css) ⭐ 108 | 🐛 46 | 🌐 PureScript | 📅 2026-10-11 - A clean, type-safe library for describing, manipulating and rendering CSS.
+* [purescript-css](https://github.com/slamdata/purescript-css) ⭐ 109 | 🐛 46 | 🌐 PureScript | 📅 2026-10-11 - A clean, type-safe library for describing, manipulating and rendering CSS.
 
 React-based:
 
@@ -32,7 +32,7 @@ React-based:
 * [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) ⭐ 287 | 🐛 11 | 🌐 PureScript | 📅 2025-04-27 - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
 * [purescript-concur](https://github.com/ajnsit/purescript-concur) ⭐ 272 | 🐛 16 | 🌐 PureScript | 📅 2024-12-09 - Concur UI framework. React backend, but can use others.
 * [purescript-presto](https://github.com/juspay/purescript-presto) ⭐ 241 | 🐛 11 | 🌐 PureScript | 📅 2024-08-07 - Write Apps like Mathematical Equations!
-* [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) ⭐ 204 | 🐛 11 | 🌐 PureScript | 📅 2026-04-09 - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
+* [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) ⭐ 204 | 🐛 12 | 🌐 PureScript | 📅 2026-04-09 - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
 * [purescript-spork](https://github.com/natefaubion/purescript-spork) ⭐ 155 | 🐛 6 | 🌐 PureScript | 📅 2021-08-12 - Elm-like for PureScript.
 * [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) ⭐ 123 | 🐛 7 | 🌐 PureScript | 📅 2016-10-10 - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
 * [purescript-react-explor](https://github.com/paf31/purescript-react-explore) ⚠️ Archived - Experiments with comonads for modelling React UIs.
@@ -73,7 +73,7 @@ Signals/Behaviors/FRP:
 
 * [purescript-aff](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2026-10-11 - An asynchronous effect monad for PureScript.
 * [purescript-affjax](https://github.com/slamdata/purescript-aff) ⭐ 288 | 🐛 22 | 🌐 PureScript | 📅 2026-10-11 - An asynchronous AJAX library built using Aff.
-* [purescript-signal](https://github.com/bodil/purescript-signal) ⭐ 260 | 🐛 9 | 🌐 PureScript | 📅 2022-04-30 - An asynchronous signal library for PureScript, similar to Elm.
+* [purescript-signal](https://github.com/bodil/purescript-signal) ⭐ 260 | 🐛 10 | 🌐 PureScript | 📅 2022-04-30 - An asynchronous signal library for PureScript, similar to Elm.
 * [purescript-zeta](https://github.com/athanclark/purescript-zeta) ⭐ 4 | 🐛 0 | 🌐 PureScript | 📅 2020-04-23 - An alternative signal implementation in PureScript.
 * [purescript-queue](https://github.com/athanclark/purescript-queue) ⭐ 3 | 🐛 2 | 🌐 PureScript | 📅 2020-04-19 - An asynchronous queue library for PureScript.
 
@@ -98,7 +98,7 @@ Signals/Behaviors/FRP:
 ## Testing
 
 * [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) ⭐ 108 | 🐛 14 | 🌐 PureScript | 📅 2026-10-18 - An implementation of QuickCheck in PureScript.
-* [purescript-test-unit](https://github.com/bodil/purescript-test-unit) ⭐ 90 | 🐛 8 | 🌐 PureScript | 📅 2022-09-03 - An asynchronous unit test runner for PureScript.
+* [purescript-test-unit](https://github.com/bodil/purescript-test-unit) ⭐ 90 | 🐛 9 | 🌐 PureScript | 📅 2022-09-03 - An asynchronous unit test runner for PureScript.
 * [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) ⚠️ Archived - Straightforward benchmarking for PureScript/JavaScript.
 * [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) ⭐ 27 | 🐛 9 | 🌐 PureScript | 📅 2026-10-11 - Law tests for core classes.
 
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,916 | 🐛 307 | 🌐 Haskell | 📅 2026-10-21
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,914 | 🐛 307 | 🌐 Haskell | 📅 2026-10-21
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
