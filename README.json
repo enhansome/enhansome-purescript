@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "purescript",
             "repo": "spago",
-            "stars": 830,
+            "stars": 829,
             "topics": [
               "build-tool",
               "package-manager",
@@ -497,7 +497,7 @@
             "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1600,
+            "stars": 1601,
             "topics": [
               "purescript",
               "ui",
@@ -752,7 +752,7 @@
             "language": "PureScript",
             "license": "MIT",
             "last_commit": "2023-06-15T14:09:42Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "natefaubion",
             "repo": "purescript-routing-duplex",
             "stars": 94,
@@ -1141,7 +1141,7 @@
             "language": "PureScript",
             "license": "MIT",
             "last_commit": "2023-06-02T13:18:40Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "justinwoo",
             "repo": "purescript-simple-json",
             "stars": 134,
@@ -1416,7 +1416,7 @@
             "open_issues": 13,
             "owner": "JordanMartinez",
             "repo": "purescript-jordans-reference",
-            "stars": 598,
+            "stars": 596,
             "topics": [
               "documentation",
               "learn",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:56:37.248Z",
+    "last_updated": "2026-11-05T23:50:59.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
