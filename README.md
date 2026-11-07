@@ -31,7 +31,7 @@ React-based:
 * [purescript-thermite](https://github.com/paf31/purescript-thermite) ⭐ 351 | 🐛 14 | 🌐 PureScript | 📅 2022-12-02 - A simple wrapper for ReactJS inspired by `react-blaze`.
 * [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) ⭐ 287 | 🐛 11 | 🌐 PureScript | 📅 2025-04-27 - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
 * [purescript-concur](https://github.com/ajnsit/purescript-concur) ⭐ 272 | 🐛 16 | 🌐 PureScript | 📅 2024-12-09 - Concur UI framework. React backend, but can use others.
-* [purescript-presto](https://github.com/juspay/purescript-presto) ⭐ 241 | 🐛 11 | 🌐 PureScript | 📅 2024-08-07 - Write Apps like Mathematical Equations!
+* [purescript-presto](https://github.com/juspay/purescript-presto) ⭐ 242 | 🐛 11 | 🌐 PureScript | 📅 2024-08-07 - Write Apps like Mathematical Equations!
 * [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) ⭐ 204 | 🐛 12 | 🌐 PureScript | 📅 2026-04-09 - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
 * [purescript-spork](https://github.com/natefaubion/purescript-spork) ⭐ 155 | 🐛 6 | 🌐 PureScript | 📅 2021-08-12 - Elm-like for PureScript.
 * [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) ⭐ 123 | 🐛 7 | 🌐 PureScript | 📅 2016-10-10 - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
