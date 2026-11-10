@@ -251,8 +251,8 @@
             "id": 33643789,
             "language": "PureScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T11:40:11Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-09T20:56:08Z",
+            "open_issues": 45,
             "owner": "purescript-contrib",
             "repo": "purescript-css",
             "stars": 109,
@@ -497,7 +497,7 @@
             "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1602,
+            "stars": 1603,
             "topics": [
               "purescript",
               "ui",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:30:02.364Z",
+    "last_updated": "2026-11-10T01:46:23.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
@@ -1474,7 +1474,7 @@
       "open_issues": 9,
       "owner": "passy",
       "repo": "awesome-purescript",
-      "stars": 484,
+      "stars": 485,
       "topics": [
         "awesome",
         "awesome-list",
