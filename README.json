@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "purescript",
             "repo": "spago",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "build-tool",
               "package-manager",
@@ -251,7 +251,7 @@
             "id": 33643789,
             "language": "PureScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T20:56:08Z",
+            "last_commit": "2026-11-10T20:31:20Z",
             "open_issues": 45,
             "owner": "purescript-contrib",
             "repo": "purescript-css",
@@ -409,8 +409,8 @@
             "id": 165808163,
             "language": "PureScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-04-09T14:42:21Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-10T20:18:35Z",
+            "open_issues": 11,
             "owner": "purescript-react",
             "repo": "purescript-react-basic-hooks",
             "stars": 204,
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:46:23.557Z",
+    "last_updated": "2026-11-10T23:44:38.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
@@ -1474,7 +1474,7 @@
       "open_issues": 9,
       "owner": "passy",
       "repo": "awesome-purescript",
-      "stars": 485,
+      "stars": 486,
       "topics": [
         "awesome",
         "awesome-list",

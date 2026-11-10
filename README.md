@@ -4,7 +4,7 @@
 
 ## Build Tooling
 
-* [spago](https://github.com/spacchetti/spago) ⭐ 829 | 🐛 40 | 🌐 PureScript | 📅 2026-11-08 - PureScript package manager and build tool powered by Dhall and package-sets
+* [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 40 | 🌐 PureScript | 📅 2026-11-08 - PureScript package manager and build tool powered by Dhall and package-sets
 * [pulp](https://github.com/bodil/pulp) ⭐ 442 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
@@ -22,7 +22,7 @@
 
 CSS:
 
-* [purescript-css](https://github.com/slamdata/purescript-css) ⭐ 109 | 🐛 45 | 🌐 PureScript | 📅 2026-11-09 - A clean, type-safe library for describing, manipulating and rendering CSS.
+* [purescript-css](https://github.com/slamdata/purescript-css) ⭐ 109 | 🐛 45 | 🌐 PureScript | 📅 2026-11-10 - A clean, type-safe library for describing, manipulating and rendering CSS.
 
 React-based:
 
@@ -32,7 +32,7 @@ React-based:
 * [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) ⭐ 287 | 🐛 11 | 🌐 PureScript | 📅 2025-04-27 - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
 * [purescript-concur](https://github.com/ajnsit/purescript-concur) ⭐ 272 | 🐛 16 | 🌐 PureScript | 📅 2024-12-09 - Concur UI framework. React backend, but can use others.
 * [purescript-presto](https://github.com/juspay/purescript-presto) ⭐ 242 | 🐛 11 | 🌐 PureScript | 📅 2024-08-07 - Write Apps like Mathematical Equations!
-* [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) ⭐ 204 | 🐛 12 | 🌐 PureScript | 📅 2026-04-09 - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
+* [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) ⭐ 204 | 🐛 11 | 🌐 PureScript | 📅 2026-11-10 - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
 * [purescript-spork](https://github.com/natefaubion/purescript-spork) ⭐ 155 | 🐛 6 | 🌐 PureScript | 📅 2021-08-12 - Elm-like for PureScript.
 * [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) ⭐ 123 | 🐛 7 | 🌐 PureScript | 📅 2016-10-10 - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
 * [purescript-react-explor](https://github.com/paf31/purescript-react-explore) ⚠️ Archived - Experiments with comonads for modelling React UIs.
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,918 | 🐛 310 | 🌐 Haskell | 📅 2026-11-09
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,922 | 🐛 310 | 🌐 Haskell | 📅 2026-11-10
 
 ## Community
 
