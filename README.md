@@ -39,9 +39,9 @@ React-based:
 
 Virtual-DOM based:
 
-* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,603 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
+* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,602 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
 * [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 322 | 🐛 8 | 🌐 PureScript | 📅 2026-09-13 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
-* [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 130 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
+* [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 129 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
 Signals/Behaviors/FRP:
 
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,922 | 🐛 310 | 🌐 Haskell | 📅 2026-11-10
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,921 | 🐛 309 | 🌐 Haskell | 📅 2026-11-12
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

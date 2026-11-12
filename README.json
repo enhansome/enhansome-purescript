@@ -497,7 +497,7 @@
             "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1603,
+            "stars": 1602,
             "topics": [
               "purescript",
               "ui",
@@ -548,7 +548,7 @@
             "open_issues": 8,
             "owner": "utkarshkukreti",
             "repo": "purescript-hedwig",
-            "stars": 130,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:44:38.270Z",
+    "last_updated": "2026-11-12T01:01:25.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
