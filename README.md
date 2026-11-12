@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,921 | 🐛 309 | 🌐 Haskell | 📅 2026-11-12
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,921 | 🐛 308 | 🌐 Haskell | 📅 2026-11-12
 
 ## Community
 
