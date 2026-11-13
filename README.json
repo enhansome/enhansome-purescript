@@ -45,7 +45,7 @@
             "open_issues": 39,
             "owner": "purescript-contrib",
             "repo": "pulp",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -207,7 +207,7 @@
             "open_issues": 28,
             "owner": "purescript",
             "repo": "purescript-prelude",
-            "stars": 168,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:53:17.070Z",
+    "last_updated": "2026-11-13T23:54:23.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
