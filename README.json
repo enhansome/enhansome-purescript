@@ -387,7 +387,7 @@
             "open_issues": 11,
             "owner": "juspay",
             "repo": "purescript-presto",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "app-development",
               "functional-programming",
@@ -497,7 +497,7 @@
             "open_issues": 75,
             "owner": "purescript-halogen",
             "repo": "purescript-halogen",
-            "stars": 1601,
+            "stars": 1602,
             "topics": [
               "purescript",
               "ui",
@@ -636,7 +636,7 @@
             "open_issues": 3,
             "owner": "paf31",
             "repo": "purescript-purview",
-            "stars": 112,
+            "stars": 113,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 0,
             "owner": "xgrommx",
             "repo": "purescript-ecosystem",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "ecosystem",
               "purescript",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:17:24.639Z",
+    "last_updated": "2026-11-21T23:35:58.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
