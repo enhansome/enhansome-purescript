@@ -5,7 +5,7 @@
 ## Build Tooling
 
 * [spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 40 | 🌐 PureScript | 📅 2026-11-08 - PureScript package manager and build tool powered by Dhall and package-sets
-* [pulp](https://github.com/bodil/pulp) ⭐ 443 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
+* [pulp](https://github.com/bodil/pulp) ⭐ 444 | 🐛 39 | 🌐 PureScript | 📅 2022-06-18
 * [psc-package](https://github.com/purescript/psc-package) ⭐ 228 | 🐛 27 | 🌐 Haskell | 📅 2022-07-24 - A package manager for PureScript based on package sets
 * [purs-loader](https://github.com/ethul/purs-loader) ⭐ 186 | 🐛 30 | 🌐 JavaScript | 📅 2024-11-18 for webpack
 * [purescript-psa](https://github.com/natefaubion/purescript-psa) ⭐ 92 | 🐛 8 | 🌐 PureScript | 📅 2024-07-13 - A pretty, flexible error/warning reporting frontend for `psc`
@@ -26,7 +26,7 @@ CSS:
 
 React-based:
 
-* [purescript-pux](https://github.com/alexmingoia/purescript-pux) ⭐ 568 | 🐛 19 | 🌐 PureScript | 📅 2023-01-12 - Build type-safe web apps with PureScript.
+* [purescript-pux](https://github.com/alexmingoia/purescript-pux) ⭐ 569 | 🐛 19 | 🌐 PureScript | 📅 2023-01-12 - Build type-safe web apps with PureScript.
 * [purescript-react](https://github.com/purescript-contrib/purescript-react) ⭐ 410 | 🐛 14 | 🌐 PureScript | 📅 2026-10-11 - React bindings for PureScript
 * [purescript-thermite](https://github.com/paf31/purescript-thermite) ⭐ 351 | 🐛 14 | 🌐 PureScript | 📅 2022-12-02 - A simple wrapper for ReactJS inspired by `react-blaze`.
 * [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) ⭐ 287 | 🐛 11 | 🌐 PureScript | 📅 2025-04-27 - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,929 | 🐛 307 | 🌐 Haskell | 📅 2026-11-15
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,931 | 🐛 307 | 🌐 Haskell | 📅 2026-11-15
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

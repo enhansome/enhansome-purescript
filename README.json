@@ -45,7 +45,7 @@
             "open_issues": 39,
             "owner": "purescript-contrib",
             "repo": "pulp",
-            "stars": 443,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:59.862Z"
@@ -276,7 +276,7 @@
             "open_issues": 19,
             "owner": "alexmingoia",
             "repo": "purescript-pux",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "elm-architecture",
               "frp-library",
@@ -1462,7 +1462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:52:18.672Z",
+    "last_updated": "2026-11-24T04:05:44.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of awesome PureScript libraries, resources and shiny things.",
