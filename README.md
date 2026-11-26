@@ -28,7 +28,7 @@ React-based:
 
 * [purescript-pux](https://github.com/alexmingoia/purescript-pux) ⭐ 569 | 🐛 19 | 🌐 PureScript | 📅 2023-01-12 - Build type-safe web apps with PureScript.
 * [purescript-react](https://github.com/purescript-contrib/purescript-react) ⭐ 410 | 🐛 14 | 🌐 PureScript | 📅 2026-10-11 - React bindings for PureScript
-* [purescript-thermite](https://github.com/paf31/purescript-thermite) ⭐ 351 | 🐛 14 | 🌐 PureScript | 📅 2022-12-02 - A simple wrapper for ReactJS inspired by `react-blaze`.
+* [purescript-thermite](https://github.com/paf31/purescript-thermite) ⭐ 350 | 🐛 14 | 🌐 PureScript | 📅 2022-12-02 - A simple wrapper for ReactJS inspired by `react-blaze`.
 * [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) ⭐ 287 | 🐛 11 | 🌐 PureScript | 📅 2025-04-27 - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
 * [purescript-concur](https://github.com/ajnsit/purescript-concur) ⭐ 272 | 🐛 16 | 🌐 PureScript | 📅 2024-12-09 - Concur UI framework. React backend, but can use others.
 * [purescript-presto](https://github.com/juspay/purescript-presto) ⭐ 243 | 🐛 11 | 🌐 PureScript | 📅 2024-08-07 - Write Apps like Mathematical Equations!
@@ -40,7 +40,7 @@ React-based:
 Virtual-DOM based:
 
 * [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,602 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
-* [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 322 | 🐛 8 | 🌐 PureScript | 📅 2026-11-16 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
+* [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 323 | 🐛 8 | 🌐 PureScript | 📅 2026-11-16 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 * [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 129 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
 Signals/Behaviors/FRP:
@@ -120,7 +120,7 @@ Signals/Behaviors/FRP:
 
 ## Editor and IDE Plugins
 
-See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,932 | 🐛 307 | 🌐 Haskell | 📅 2026-11-15
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support) ⭐ 8,933 | 🐛 307 | 🌐 Haskell | 📅 2026-11-15
 
 ## Community
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
