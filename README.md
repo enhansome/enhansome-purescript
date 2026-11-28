@@ -39,7 +39,7 @@ React-based:
 
 Virtual-DOM based:
 
-* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,602 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
+* [purescript-halogen](https://github.com/slamdata/purescript-halogen) ⭐ 1,604 | 🐛 75 | 🌐 PureScript | 📅 2026-10-11 - A declarative, type-safe UI library.
 * [purescript-flame](https://github.com/easafe/purescript-flame) ⭐ 323 | 🐛 8 | 🌐 PureScript | 📅 2026-11-16 - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 * [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) ⭐ 129 | 🐛 8 | 🌐 PureScript | 📅 2020-06-25 - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
@@ -145,4 +145,4 @@ To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
